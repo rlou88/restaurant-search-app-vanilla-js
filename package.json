@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-search-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlou88/restaurant-search-app-vanilla-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlou88/restaurant-search-app-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/rlou88/restaurant-search-app-vanilla-js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "zomato.js": "^1.1.0"
+  }
+}
